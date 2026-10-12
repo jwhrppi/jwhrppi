@@ -13,5 +13,5 @@
 ---
 
 ### Featured Project
-### [🕹️ Play Python-PathFinder on itch.io](https://jwhrppi.itch.io)
+### [🕹️ Play Python-PathFinder on itch.io](https://jwhrppi.itch.io/python-pathfinder-webver)
 *Click the link above to test out my pathfinding algorithm game directly in your web browser!*
