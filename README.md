@@ -1,11 +1,10 @@
-<!-- FIXED HEADER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=354024&height=200&section=header&text=jwhrppi&fontSize=55&fontColor=E5D7C4&fontAlignY=38&font=Pacifico" width="100%" />
 </p>
 
-<!-- SUBTEXT WRITTEN IN CLEAN MARKDOWN (NEVER BREAKS) -->
+
 <p align="center">
-  <sub><i><font size="4" color="#889063">currently developing digital nightmares & fixing bugs</font></i></sub>
+  <sub><i><font size="8" color="#889063">currently procastinating while pursuing degree</font></i></sub>
 </p>
 
 <!-- CENTERED SOCIAL BADGES -->
@@ -25,7 +24,7 @@
 
 ## ✦ ABOUT ME
 
-### ◆ I'm a game developer passionate about creating engaging, immersive experiences.
+### ◆ I'm a beginner game developer passionate about creating engaging, immersive experiences.
 
 ### ◆ **Current Focus:** Developing a 3D horror game, experimenting with game mechanics, and refining my 3D modeling workflow.
 
@@ -61,7 +60,7 @@
 ---
 
 ### ▸ [Play Python-PathFinder on itch.io](https://jwhrppi.itch.io/python-pathfinder-webver)
-> #### *Test out my pathfinding algorithm game directly in your web browser!*
+> #### *Test out my pathfinding python game directly in your web browser!*
 
 <p align="center">
   <video src="https://github.com/user-attachments/assets/17b6e8d2-8770-4c1c-aabf-3f7c9de03c8e" width="600" controls></video>
