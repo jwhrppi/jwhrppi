@@ -1,7 +1,15 @@
+<!-- GRADIENT HEADER BANNER: Comfortaa Font -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=79864B&height=200&section=header&text=jwhrppi&fontSize=60&fontColor=EEE9BF&fontAlignY=35&font=Comfortaa" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=79864B,78793F,8A7D4C&height=200&section=header&text=jwhrppi&fontSize=60&fontColor=EEE9BF&fontAlignY=35&font=Comfortaa" width="100%" />
 </p>
 
+
+<!-- CAN CHANGE THE TEXT BELOW between text= and &bg_color= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&color=EEE9BF&size=24&width=100%&center=true&vCenter=true&lines=Currently developing digital nightmares (and fixing bugs);" alt="Welcome Text" />
+</p>
+
+<!-- CENTERED & TALLER SOCIAL BADGES -->
 <p align="center">
   <a href="https://jwhrppi.itch.io/" target="_blank">
     <img src="https://img.shields.io/badge/Itch.io-79864B?style=for-the-badge&logo=itch.io&logoColor=EEE9BF" alt="Itch.io" />
@@ -18,7 +26,7 @@
 
 ## ✦ ABOUT ME
 
-### ◆ I'm a game developer passionate about creating engaging, immersive experiences.
+### ◆ I'm a beginner game developer passionate about creating engaging and immersive experiences.
 
 ### ◆ **Current Focus:** Developing a 3D horror game, experimenting with game mechanics, and refining my 3D modeling workflow.
 
@@ -56,6 +64,7 @@
 ### ▸ [Play Python-PathFinder on itch.io](https://jwhrppi.itch.io/python-pathfinder-webver)
 > #### *Test out my pathfinding algorithm game directly in your web browser!*
 
+<!-- CENTERED & RESIZED VIDEO -->
 <p align="center">
   <video src="https://github.com/user-attachments/assets/17b6e8d2-8770-4c1c-aabf-3f7c9de03c8e" width="600" controls></video>
 </p>
