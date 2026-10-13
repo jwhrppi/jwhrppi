@@ -1,9 +1,14 @@
-<!-- GRADIENT HEADER BANNER WITH WHIMSICAL FONT SUBTEXT -->
+<!-- FIXED HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=354024&height=220&section=header&text=jwhrppi&fontSize=55&fontColor=E5D7C4&fontAlignY=32&font=Pacifico&desc=currently%20developing%20digital%20nightmares%20%26%20fixing%20bugs&descSize=20&descAlignY=62&descColor=CFBB99" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=354024&height=200&section=header&text=jwhrppi&fontSize=55&fontColor=E5D7C4&fontAlignY=38&font=Pacifico" width="100%" />
 </p>
 
-<!-- CENTERED SOCIAL BADGES WITH NEW PALETTE -->
+<!-- SUBTEXT WRITTEN IN CLEAN MARKDOWN (NEVER BREAKS) -->
+<p align="center">
+  <sub><i><font size="4" color="#889063">currently developing digital nightmares & fixing bugs</font></i></sub>
+</p>
+
+<!-- CENTERED SOCIAL BADGES -->
 <p align="center">
   <a href="https://jwhrppi.itch.io/" target="_blank">
     <img src="https://img.shields.io/badge/Itch.io-354024?style=for-the-badge&logo=itch.io&logoColor=E5D7C4" alt="Itch.io" />
