@@ -24,7 +24,7 @@
 
 ## ✦ ABOUT ME
 
-### ◆ I'm a beginner game developer passionate about creating engaging, immersive experiences. Still playing around with Blender.
+### ◆ I'm a beginner game developer passionate about creating engaging, immersive experiences. Still playing around with Blender and figuring things out with GDScript.
 
 ### ◆ **Current Focus:** Developing a 3D horror game, experimenting with game mechanics, and refining my 3D modeling workflow.
 
@@ -49,7 +49,7 @@
 ## ✦ FEATURED PROJECTS
 
 ### ▸ [TAK DIUNDANG (The Uninvited)](https://github.com/jwhrppi/TAK-DIUNDANG) *(In Development)*
-> #### *A low-poly 3D survival horror game built with Godot 4 and custom 3D assets modeled in Blender, inspired by Southeast Asian folklore.*
+> #### *A low-poly 3D survival horror game built with Godot 4 and custom 3D assets modeled in Blender, inspired by Malaysian folklore.*
 
 <p align="center">
   <a href="https://github.com/jwhrppi/TAK-DIUNDANG">
