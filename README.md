@@ -21,12 +21,12 @@
 </p>
 
 
+<!-- MUSIC PLAYER BADGE -->
 <p align="center">
-  <a href="https://open.spotify.com/track/7rIovIsXE6kMn629b7kDig?si=1XmS2rvsRVCcDBp7Oia7AQ&utm_source=copy-link" target="_blank">
-    <img src="https://img.shields.io/badge/▶_PLAY_SOUNDTRACK-354024?style=for-the-badge&logo=spotify&logoColor=E5D7C4" alt="Play Soundtrack" />
+  <a href="https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv?si=RXkwIf5cSGepOUW0aoivpA&utm_source=copy-link" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=16&pause=1000&color=E5D7C4&center=true&vCenter=true&width=435&lines=🎵+Now+Playing%3A" alt="Music Player" />
   </a>
 </p>
-
 
 ---
 
