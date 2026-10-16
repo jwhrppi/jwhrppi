@@ -20,14 +20,15 @@
   </a>
 </p>
 
+
 <!-- MUSIC PLAYER SECTION -->
 <p align="center">
   <a href="https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv?si=RXkwIf5cSGepOUW0aoivpA" target="_blank">
-    <img src="https://img.shields.io/badge/🎵_LISTEN_ON_SPOTIFY-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Track" />
+    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=16&pause=1000&color=E5D7C4&center=true&vCenter=true&width=435&height=40&lines=Currently+Playing..." alt="Currently Playing" />
   </a>
   <br />
   <a href="https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv?si=RXkwIf5cSGepOUW0aoivpA" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=16&pause=1000&color=E5D7C4&center=true&vCenter=true&width=435&height=40&lines=Currently+Playing...;" alt="Music Player" />
+    <img src="https://img.shields.io/badge/LISTEN_ON_SPOTIFY-354024?style=for-the-badge&logo=spotify&logoColor=E5D7C4" alt="Spotify Track" />
   </a>
 </p>
 
