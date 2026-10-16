@@ -20,13 +20,13 @@
   </a>
 </p>
 
-
 <!-- MUSIC PLAYER BADGE -->
 <p align="center">
-  <a href="https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv?si=RXkwIf5cSGepOUW0aoivpA&utm_source=copy-link" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=16&pause=1000&color=E5D7C4&center=true&vCenter=true&width=435&lines=🎵+Now+Playing%3A" alt="Music Player" />
+  <a href="https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv?si=RXkwIf5cSGepOUW0aoivpA" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=16&pause=1000&color=E5D7C4&center=true&vCenter=true&width=435&lines=Currently+Playing...;" alt="Music Player" />
   </a>
 </p>
+
 
 ---
 
