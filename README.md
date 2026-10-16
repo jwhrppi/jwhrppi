@@ -22,6 +22,15 @@
 
 ---
 
+<p align="center">
+  <a href="https://open.spotify.com/track/7rIovIsXE6kMn629b7kDig?si=1XmS2rvsRVCcDBp7Oia7AQ&utm_source=copy-link" target="_blank">
+    <img src="https://img.shields.io/badge/▶_PLAY_SOUNDTRACK-354024?style=for-the-badge&logo=spotify&logoColor=E5D7C4" alt="Play Soundtrack" />
+  </a>
+</p>
+
+
+---
+
 ## ✦ ABOUT ME
 
 ### ◆ I'm a beginner game developer passionate about creating engaging, immersive experiences. Still playing around with Blender and figuring things out with GDScript.
