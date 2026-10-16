@@ -30,6 +30,10 @@
   <a href="https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv?si=RXkwIf5cSGepOUW0aoivpA" target="_blank">
     <img src="https://img.shields.io/badge/LISTEN_ON_SPOTIFY-354024?style=for-the-badge&logo=spotify&logoColor=E5D7C4" alt="Spotify Track" />
   </a>
+  <a href="https://store.steampowered.com/app/457140/Oxygen_Not_Included/" target="_blank">
+  <img src="https://img.shields.io/badge/OXYGEN_NOT_INCLUDED-889063?style=for-the-badge&logo=steam&logoColor=E5D7C4" alt="Oxygen Not Included" />
+</a>
+  
 </p>
 
 
